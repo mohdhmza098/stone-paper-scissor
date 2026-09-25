@@ -8,7 +8,7 @@ The player selects **Stone, Paper, or Scissor**, while the computer randomly gen
 
 ## 🎮 Live Demo
 
-> 🚀 Live demo coming soon...
+> 🚀 https://splendorous-cat-afd0b8.netlify.app/)
 
 ---
 
