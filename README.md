@@ -200,7 +200,7 @@ Some improvements that can be added later:
 
 ## 📸 Project Preview
 
-> Screenshots of the game interface can be added here later.
+ ./gamePreveiw.png
 
 ---
 
