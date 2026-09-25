@@ -5,6 +5,25 @@ A simple and interactive **Stone Paper Scissor** game built using **HTML, CSS, a
 The player selects **Stone, Paper, or Scissor**, while the computer randomly generates its choice. The game then compares both choices and displays the result.
 
 ---
+<h2>🛠️ Technologies Used</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100">
+      <br><b>HTML</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100">
+      <br><b>CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100">
+      <br><b>JavaScript</b>
+    </td>
+  </tr>
+</table>
+---
 
 ## 🎮 Live Demo
 
